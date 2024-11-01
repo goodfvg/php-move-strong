@@ -1,0 +1,79 @@
+
+difference , do , edge , effectively , efficient , ensure , ensuring , environment , error , example
+
+exceptions , execute , existing , experience , explain , faced , favorite , feature , feedback , fellow
+
+field , file , for , frameworks , future , giving , goals , had , handle , handling
+
+have , helps , high , implementing , improve , improving , including , input , integration , integrity
+
+interface , internationalization , is , issue , it , its , jobs , junior , keep , languages 
+
+latest , learning , libraries , like , load , maintainability , maintainable , maintaining , managing , meet
+
+members , mentor , message , microservice , microservices , mobile , modeling , modern , multiple , new 
+
+object-oriented , of , on , online , open-source , optimization , optimize , optimizing , or , organize 
+
+organized , other , overcomem , participating , particularly , patches , patterns , performance , posts 
+
+
+practices ,preferences ,pressure ,principles ,proactively ,problem ,problem-solving ,procedural ,processing 
+
+professional , profiling , programming , project , projects , proper , protection , proud , provide 
+
+quality , queries , queueing , ranking , readability , real-world , redesign  ,refactor , related 
+
+request , resolved , resources , results , reviews , role , search , secure , security 
+
+see , serialization , serverless , session , share , simultaneously , situation , skills , soft 
+
+solution , solve , some , stakeholders , standards , stay , store , strategies , structure , structures 
+
+such , support , system , tasks , team , technical , techniques , technologies , testing , that 
+
+their, them , troubleshoot , troubleshooting , unit , up up-to-date , uploads , use 
+
+(CSRF) , (OOP) , (SEO) , API ,  Can , Composer , Describe , Discuss , Docker , Explain 
+
+GET , JSON , MariaDB , MySQL , Native , PDO , PHP , PHPUnit , POST , PostgreSQL , RESTful 
+
+React , SQL , Share , Web , about , advancements , application , applied , apply
+
+are , at , authentication , automating , balance , best , better , between , blog   
+
+can , career , challenge , cloud , code , collaborating , communities , community 
+
+complex , connect , context , continuous , contribute , contributions , cookie 
+
+courses , create , cross-site , data , database , debugging , dependencies , dependency  
+
+when , where , with , work , working , workshops , would , writing , vision , vulnerabilities
+
+thoughts , time , tool , train , trends , systems , tackled , taking , talks , task
+
+machine , informed , large , maintain , impact , legacy , locales , manage , management , methodologies
+
+
+design , develop , developer , developers , development , deployment , describe , used , user , using , validation 
+
+hackathons , impacting , implement , instance , localization , logging , intelligence , injection , 
+innovative , meaningful
+
+
+broker , documentation , evolution , established , exchange , expertise , extension , extensibility , forgery , high-paced
+
+
+efficiency , emerging , end-to-end , especially , engine , caching , formats , growth
+
+
+deploy , deserialization , Agile , automated , conferences , ecosystem , computing , deadlines
+
+
+cross-platform , cloud-native , clean , clear , collaboration , communication , cron , constructive
+
+
+attending  , blockchain , codebases , command-line , authorization , concept , Tokens
+
+
+administrative , approach , architecture , advisories , algorithms , artificial , asynchronous , compatibility , balancing

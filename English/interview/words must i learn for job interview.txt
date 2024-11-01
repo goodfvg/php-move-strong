@@ -1,0 +1,415 @@
+Frontend Development: The client-facing part of a website or web application that users interact with directly.
+
+Backend Development: The server-side of a web application that manages data and handles requests from the frontend.
+
+Full-stack Development: Developers who work on both frontend and backend aspects of a project.
+
+Responsive Design: Design that adjusts and looks good on various screen sizes and devices.
+
+User Interface (UI): The visual elements and design of a website or application.
+
+User Experience (UX): The overall experience and usability of a website or application.
+
+CMS (Content Management System): Software used for managing and updating website content.
+
+API (Application Programming Interface): A set of rules for communication between different software applications.
+
+HTML (Hypertext Markup Language): The standard markup language for creating web pages.
+
+CSS (Cascading Style Sheets): Used for styling and formatting web page elements.
+
+JavaScript: A programming language used for adding interactivity to web pages.
+
+Framework: A pre-built structure or library for web development (e.g., React, Angular, Vue).
+
+Version Control: Managing changes to code using systems like Git.
+
+Database: A system for storing and managing data (e.g., MySQL, MongoDB).
+
+Server: A computer that hosts a website or web application.
+
+HTTP (Hypertext Transfer Protocol): The protocol used for transmitting data on the web.
+
+HTTPS: A secure version of HTTP that encrypts data between a user's browser and the server.
+
+URL (Uniform Resource Locator): The web address used to access a specific resource.
+
+SEO (Search Engine Optimization): Techniques to improve a website's visibility in search engine results.
+
+SSL/TLS Certificate: Security certificates that enable HTTPS and data encryption.
+
+Scalability: The ability of a system to handle increased load and traffic.
+
+AJAX (Asynchronous JavaScript and XML): A technique for updating parts of a web page without a full refresh.
+
+Responsive Images: Images that adapt to different screen sizes and resolutions.
+
+API Endpoint: A specific URL that an API can be accessed through.
+
+Debugging: Identifying and fixing issues or errors in code.
+
+DevOps (Development and Operations): A set of practices that combine development and IT operations.
+
+Continuous Integration (CI): Automatically integrating code changes into a shared repository.
+
+Continuous Deployment (CD): Automatically deploying code changes to production servers.
+
+Framework: A standardized way to build and structure web applications.
+
+Static Website: A website that consists of fixed, unchanging content.
+
+Dynamic Website: A website with content that can change based on user input or other factors.
+
+Cross-Browser Compatibility: Ensuring a website works correctly on different web browsers.
+
+Cache: Storing data temporarily to improve performance.
+
+Load Balancing: Distributing web traffic across multiple servers to prevent overloading.
+
+Responsive Web Design: Designing for various screen sizes and orientations.
+
+Web Accessibility: Ensuring websites are usable by people with disabilities.
+
+Wireframe: A visual representation of a web page's layout and structure.
+
+Prototype: A working model of a website or application for testing and feedback.
+
+Agile Development: An iterative and flexible approach to development.
+
+Sprint: A short, focused development cycle in Agile methodology.
+
+UI/UX Design: The process of creating both the visual elements and the overall user experience of a website or application.
+
+Wireframing: Creating simplified sketches or diagrams to plan the layout and functionality of a webpage or application.
+
+Prototyping: Building interactive models to visualize and test the functionality of a website or app.
+
+Framework: A structured, reusable codebase or set of tools for building web applications (e.g., Ruby on Rails, Django).
+
+Library: A collection of pre-written code modules or functions that developers can use to speed up development (e.g., jQuery).
+
+Package Manager: A tool for installing, updating, and managing libraries and dependencies (e.g., npm, Yarn).
+
+IDE (Integrated Development Environment): A software application that provides a comprehensive environment for coding, debugging, and testing (e.g., Visual Studio Code, IntelliJ IDEA).
+
+Repository: A location where version-controlled code and project files are stored (e.g., GitHub, GitLab).
+
+Pull Request (PR): A proposed code change submitted for review and integration into a codebase.
+
+Merge: Combining separate branches or code changes into a single codebase.
+
+Continuous Integration/Continuous Deployment (CI/CD): A development practice that automates code integration, testing, and deployment.
+
+API Key: A unique code that identifies and authenticates a developer or application when accessing an API.
+
+Authentication: The process of verifying the identity of a user or application.
+
+Authorization: Determining what actions a user or application is allowed to perform within a system.
+
+Cross-Origin Resource Sharing (CORS): A security feature that controls which domains are permitted to access resources on a web page.
+
+CMS (Content Management System): Software for creating, managing, and publishing digital content (e.g., WordPress, Drupal).
+
+SEO (Search Engine Optimization): Strategies and techniques to improve a website's visibility and ranking in search engine results.
+
+Web Hosting: A service that provides server space and resources to make websites accessible on the internet.
+
+Domain Name: The unique address used to access a website (e.g., www.example.com).
+
+SSL Certificate: A security certificate that encrypts data transmitted between a user's browser and a server.
+
+Load Time: The time it takes for a webpage to fully load in a user's browser.
+
+Viewport: The visible portion of a web page within a user's browser window.
+
+Viewport Meta Tag: An HTML meta tag that controls how a webpage is displayed on mobile devices.
+
+AJAX (Asynchronous JavaScript and XML): A technique for making asynchronous requests to a server to update parts of a webpage without a full page reload.
+
+Frontend Frameworks: Comprehensive libraries and tools for building complex, interactive web applications (e.g., React, Angular, Vue.js).
+
+API Documentation: Detailed information about how to use and interact with an API.
+
+Cookies: Small pieces of data stored on a user's device to track and manage user sessions and preferences.
+
+Session: A period of interaction between a user and a web application, often used for maintaining user state.
+
+Endpoint: A specific URL within an API that provides access to a particular resource or function.
+
+State Management: Managing and maintaining the data and user interface state of a web application.
+
+Responsive Images: Images that adapt to different screen sizes and resolutions to improve performance and user experience.
+
+Semantic Markup: Using HTML elements that convey the meaning of content to search engines and assistive technologies.
+
+Microservices: Architectural approach where a web application is divided into small, independently deployable services.
+
+Serverless: A cloud computing model where developers focus on code, and the cloud provider manages server infrastructure.
+
+Single Page Application (SPA): A web application that loads a single HTML page and dynamically updates content as the user interacts with it.
+
+Middleware: Software components that bridge the gap between the frontend and backend to perform various tasks, such as authentication and logging.
+
+Authentication Token: A piece of data used to verify the identity of a user or application, often used in API authentication (e.g., JWT - JSON Web Token).
+
+Authorization Token: A token that grants or denies access to specific resources or actions within an application.
+
+SQL (Structured Query Language): A domain-specific language for managing and querying relational databases.
+
+NoSQL Database: A database that uses non-relational data models, suitable for handling large amounts of unstructured data (e.g., MongoDB, Cassandra).
+
+ORM (Object-Relational Mapping): A technique to map database tables to object-oriented code structures.
+
+HTTP Status Codes: Numeric codes indicating the result of an HTTP request (e.g., 404 Not Found, 200 OK).
+
+RESTful API: An API design pattern that uses HTTP methods (GET, POST, PUT, DELETE) to perform CRUD (Create, Read, Update, Delete) operations on resources.
+
+GraphQL: A query language for APIs that allows clients to request only the data they need.
+
+Serverless Computing: A cloud computing model where developers write functions that are executed in response to events.
+
+CI/CD Pipeline: A series of automated steps for testing and deploying code changes.
+
+Code Review: A process where peers examine and assess the quality of code changes.
+
+Bug Tracking: A system for identifying, documenting, and managing software defects.
+
+API Gateway: A server that acts as an API front-end, routing requests to appropriate backend services.
+
+Dependency Injection: A design pattern where the dependencies of a component are provided from external sources.
+
+Scrum: An Agile framework for managing and delivering software projects.
+
+Kanban: An Agile methodology that visualizes the workflow to optimize efficiency.
+
+Waterfall Model: A traditional project management approach with distinct phases, each dependent on the previous one.
+
+Continuous Testing: A practice of running automated tests throughout the development process.
+
+Version Control System (VCS): Software tools like Git that track changes to code files.
+
+Server-Side Rendering (SSR): A technique where the server generates the initial HTML for a webpage before sending it to the client.
+
+Client-Side Rendering (CSR): A technique where the client's browser handles rendering web content using JavaScript.
+
+Landing Page: A single web page designed for a specific marketing or promotional purpose.
+
+Wireless Fidelity (Wi-Fi): A technology that allows devices to connect to the internet wirelessly.
+
+Cache Invalidation: The process of clearing cached data when it becomes outdated or irrelevant.
+
+URL Rewriting: A technique used to modify URLs for better readability or SEO.
+
+Cross-Site Scripting (XSS): A security vulnerability where attackers inject malicious scripts into web pages viewed by other users.
+
+Content Delivery Network (CDN): A network of distributed servers that deliver web content to users based on their geographic location.
+
+DNS (Domain Name System): A system that translates human-readable domain names into IP addresses.
+
+WebSockets: A communication protocol that enables real-time, two-way data exchange between a client and server.
+
+DevSecOps: The integration of security practices into the DevOps process to ensure the security of applications.
+
+Progressive Web App (PWA): A web application that offers a native app-like experience, including offline capabilities.
+
+Breadcrumbs: A navigational aid that shows a user's path through a website hierarchy.
+
+Codebase: The complete set of source code for a software project.
+
+Docker: A platform for developing, shipping, and running applications in containers for consistency and portability.
+
+AJAX (Asynchronous JavaScript and XML): A technique for making asynchronous requests to a server to update parts of a webpage without a full page reload.
+
+Frontend Frameworks: Comprehensive libraries and tools for building complex, interactive web applications (e.g., React, Angular, Vue.js).
+
+API Documentation: Detailed information about how to use and interact with an API.
+
+Cookies: Small pieces of data stored on a user's device to track and manage user sessions and preferences.
+
+Session: A period of interaction between a user and a web application, often used for maintaining user state.
+
+Responsive Images: Images that adapt to different screen sizes and resolutions to improve performance and user experience.
+
+Semantic Markup: Using HTML elements that convey the meaning of content to search engines and assistive technologies.
+
+Microservices: Architectural approach where a web application is divided into small, independently deployable services.
+
+Serverless: A cloud computing model where developers focus on code, and the cloud provider manages server infrastructure.
+
+Single Page Application (SPA): A web application that loads a single HTML page and dynamically updates content as the user interacts with it.
+
+RESTful API: An API design pattern that uses HTTP methods (GET, POST, PUT, DELETE) to perform CRUD (Create, Read, Update, Delete) operations on resources.
+
+GraphQL: A query language for APIs that allows clients to request only the data they need.
+
+Serverless Computing: A cloud computing model where developers write functions that are executed in response to events.
+
+CI/CD Pipeline: A series of automated steps for testing and deploying code changes.
+
+Code Review: A process where peers examine and assess the quality of code changes.
+
+Bug Tracking: A system for identifying, documenting, and managing software defects.
+
+API Gateway: A server that acts as an API front-end, routing requests to appropriate backend services.
+
+Dependency Injection: A design pattern where the dependencies of a component are provided from external sources.
+
+Scrum: An Agile framework for managing and delivering software projects.
+
+Kanban: An Agile methodology that visualizes the workflow to optimize efficiency.
+
+Waterfall Model: A traditional project management approach with distinct phases, each dependent on the previous one.
+
+Continuous Testing: A practice of running automated tests throughout the development process.
+
+Version Control System (VCS): Software tools like Git that track changes to code files.
+
+Server-Side Rendering (SSR): A technique where the server generates the initial HTML for a webpage before sending it to the client.
+
+Client-Side Rendering (CSR): A technique where the client's browser handles rendering web content using JavaScript.
+
+Landing Page: A single web page designed for a specific marketing or promotional purpose.
+
+Wireless Fidelity (Wi-Fi): A technology that allows devices to connect to the internet wirelessly.
+
+Cache Invalidation: The process of clearing cached data when it becomes outdated or irrelevant.
+
+URL Rewriting: A technique used to modify URLs for better readability or SEO.
+
+Cross-Site Scripting (XSS): A security vulnerability where attackers inject malicious scripts into web pages viewed by other users.
+
+Content Delivery Network (CDN): A network of distributed servers that deliver web content to users based on their geographic location.
+
+DNS (Domain Name System): A system that translates human-readable domain names into IP addresses.
+
+WebSockets: A communication protocol that enables real-time, two-way data exchange between a client and server.
+
+DevSecOps: The integration of security practices into the DevOps process to ensure the security of applications.
+
+Progressive Web App (PWA): A web application that offers a native app-like experience, including offline capabilities.
+
+Breadcrumbs: A navigational aid that shows a user's path through a website hierarchy.
+
+Codebase: The complete set of source code for a software project.
+
+Docker: A platform for developing, shipping, and running applications in containers for consistency and portability.
+
+Micro Frontends: A technique for building frontend applications as a composition of smaller, independently developed parts.
+
+Agile Manifesto: A set of guiding values and principles for Agile software development.
+
+Content Management System (CMS): A software application that enables users to create, edit, and manage digital content on a website without requiring technical expertise.
+
+Static Website: A type of website where the content is fixed and doesn't change dynamically, typically suitable for simple sites or blogs.
+
+Dynamic Website: A website that generates content and interacts with users, often pulling data from databases and responding to user inputs.
+
+Web Application: A software program or interface that runs in a web browser and provides functionality beyond static web pages.
+
+Web Server: Software or hardware that serves web content to users' browsers, responding to requests for web pages and resources.
+
+Codebase: The complete set of source code for a software project.
+
+Docker: A platform for developing, shipping, and running applications in containers for consistency and portability.
+
+Micro Frontends: A technique for building frontend applications as a composition of smaller, independently developed parts.
+
+Agile Manifesto: A set of guiding values and principles for Agile software development.
+
+MVP (Minimum Viable Product): The simplest version of a product that contains only essential features, typically used for early testing and validation.
+
+Tech Debt (Technical Debt): The accumulation of suboptimal code or shortcuts that need to be addressed in the future.
+
+Codebase: The complete set of source code for a software project.
+
+CI/CD Pipeline: A series of automated steps for testing and deploying code changes.
+
+Tech Stack: The combination of programming languages, frameworks, and tools used in a software project.
+
+Code Repository: A centralized location where code is stored, tracked, and managed, often using version control systems like Git.
+
+Accessibility statement - A statement that describes how a website or web application is accessible to people with disabilities.
+
+Agile manifesto - A document that describes the principles and values of agile software development.
+
+Alpha release - An early version of a software application that is released to a limited group of users for testing.
+
+API design - The process of designing an API that is easy to use and efficient.
+
+Backlog grooming - The process of reviewing and prioritizing the backlog of tasks for a software development project.
+
+Behavior-driven development (BDD) - A software development approach that focuses on the behavior of the software.
+
+Beta release - A version of a software application that is released to a wider group of users for testing before it is released to the general public.
+
+Code coverage - The percentage of code that is covered by unit tests.
+
+Continuous learning - The process of continually learning new skills and knowledge in the field of web development.
+
+Data structures - Ways of organizing data in a computer so that it can be used efficiently.
+
+Database normalization - The process of organizing data in a database to reduce redundancy and improve data integrity.
+
+Deployment pipeline - A set of automated steps that are used to deploy a website or web application to production.
+
+Developer experience (DX) - The quality of the experience that developers have when developing and maintaining a software application.
+
+Documentation-driven development (DDD) - A software development approach that emphasizes the importance of documentation.
+
+End-to-end testing - The process of testing a software application from beginning to end, including the user interface, the back-end logic, and the database.
+
+Feature flag - A flag that can be used to enable or disable features in a software application.
+
+Frontend performance - The performance of the user interface of a website or web application.
+
+Git branching - The process of creating and managing branches in a Git repository.
+
+Git merge - The process of combining changes from one branch of a Git repository to another branch.
+
+Infrastructure as code (IaC) - The practice of managing and provisioning infrastructure using code.
+
+Integration testing - The process of testing how different components of a software application work together.
+
+Issue tracking system - A software application that is used to track and manage issues, such as bugs and feature requests.
+
+JavaScript fatigue - The feeling of frustration that can result from working with JavaScript for extended periods of time.
+
+Load balancing - The process of distributing traffic across multiple web servers.
+
+Logging and telemetry - The process of collecting and analyzing data about the performance and usage of a software application.
+
+Microservices architecture - A software design approach that organizes an application into a set of small, independent services.
+
+Model-View-Controller (MVC) - A software design pattern that separates the data, presentation, and control logic of an application.
+
+Object-oriented programming (OOP) - A programming paradigm that uses objects and their interactions to design applications.
+
+Performance optimization - The process of improving the performance of a website or web application.
+
+Progressive web apps (PWAs) - Web applications that can be installed on mobile devices and provide a native-like experience.
+
+Quality assurance (QA) - The process of testing software to ensure that it meets its requirements and is free of defects.
+
+Refactoring - The process of improving the design of existing code without changing its functionality.
+
+Regression testing - The process of testing previously working code to ensure that it still works after changes have been made to the codebase.
+
+Scalability - The ability of a website or web application to handle increased load without sacrificing performance.
+
+Security testing - The process of testing a website or web application for security vulnerabilities.
+
+Semantic HTML - HTML that is written in a way that is meaningful to both humans and machines.
+
+Session management - The process of tracking and managing user sessions.
+
+Single sign-on (SSO) - An authentication mechanism that allows users to log in to multiple websites or web applications using a single set of credentials.
+
+Software development lifecycle (SDLC) - The process of developing and maintaining software.
+
+Technical debt - The debt that accrues when software is developed quickly and without proper planning and design.
+
+Unit testing - The process of testing individual units of code, such as functions and classes.
+
+User acceptance testing (UAT) - The process of testing a software application with real users to ensure that it meets their needs.
+**Version control system
+

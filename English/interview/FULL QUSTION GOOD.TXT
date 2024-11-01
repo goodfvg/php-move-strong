@@ -1,0 +1,196 @@
+1 = tell me about yourself
+
+=> Thank you very much for giving me the opportunity to interview with your company. My name is Murad, and I have five years of experience in web development I have built a variety of projects, and throughout my career, I have learned important values, such as discipline and adapting to difficult circumstances. I have a positive attitude, I am good at building algorithms and solving problems, and I am passionate about what I do. For example, early in my programming career I created a social networking site on my own. I also contributed to an open source project, and I think this proves that I have skills. Critical thinking and thinking outside the box I am the type of person who is able to face difficulties and deal with pressures effectively For example, I spent my career under very difficult circumstances I tend to help others and collaborate with them which led me to create a blog and a YouTube channel , where I have helped many developers improve their skills and have received a lot of positive feedback If you hire me, I will be a role model for the company
+
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+
+2 = What are your biggest weaknesses  /  What are your weaknesses
+
+=> One of my weaknesses is that I'm very curious about how things work. For example, I am curious about understanding a specific function, and when it is difficult for me to understand, I feel anxious until I fully understand it. This can take a long time, as I find myself spending valuable time trying to understand them again. At the moment I am working on developing strategies to address this weakness. For example, I have started to postpone understanding complex matters to moments when I am calmer and more stable. In fact, I can use my curiosity. The strength to continuously enhance my skills and expand my knowledge
+
+
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+
+3 = What are your strengths
+
+=> One of my strengths lies in my ability to deal with problem-solving rationally and enthusiastically I excel in handling challenges For example I have spent my entire career to this day in an unsuitable environment with minimal resources and using a laptop that is not suitable for programming I have succeeded in overcoming these challenges Thanks to my ability to adapt to difficult circumstances and provide appropriate solutions Despite that I have achieved tangible accomplishments in my professional journey which demonstrates my willingness to take responsibility for difficult challenges instead of leaving them for others to deal with I am confident that my adaptability will help me to integrate and collaborate effectively with your team
+
+
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+
+
+4 = Why are you interested in working for our company or with us / why do you want to work for our company as a web developer / Why Do You Want to Work for Us?
+
+=> I am deeply interested in the company because it possesses distinctive qualities that make it an ideal place to work
+
+it seems to me that this company has an enthusiastic spirit for continuous development and improvement , and striving to deliver products that are more advanced than previous ones, which motivates me to work in such companies
+
+I believe that this company cares about candidates with disabilities Taking such social initiatives reflects its commitment to equality and equal opportunities --- this aligns with my personal principles and makes me feel comfortable in such an environment
+
+
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+
+5 = How do you deal with pressure?
+
+=> When it comes to dealing with Pressure I can say that I have a rich history of handling pressure and I have always been able to overcome them by:
+
+Turning Pressure into Positive Motivation: When facing pressure, I always try to focus on the positives that will come from achieving the desired goal. This increases my enthusiasm and makes me work hard.
+
+Considering the Negative Consequences of Failure: When faced with pressure at work due to something I remember how failure can negatively impact my goals and aspirations. This motivates me to keep a calm mind and to be as careful as possible in avoiding mistake, thereby reducing stress
+
+Taking short breaks: Sometimes, it is necessary to take short breaks to reduce stress and these breaks can include walking or listening to music
+
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+
+6 = what is your echievemaents
+
+=> I have never worked for any company before , and as a result , I have not achieved specific accomplishments for a particular company However, I will share with you the personal achievements I have made
+--------- 
+At the beginning of my professional career, despite my weak experience, limited resources, and difficult challenges, I created a social networking site, and this was the first project I created. This project allows its users to share photos, videos, audio clips, comments, and other features. In addition, the project includes an E-Marketplace where users can buy and sell products
+
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+
+7 = How do you handle conflict with others?
+
+=> I believe that conflict is a natural part of the workplace, and I am confident in my ability to handle conflict in a professional manner. My approach in resolving conflicts involves first trying to understand the perspective of other person through active listening and asking clarifying questions. By asking questions, we can understand the negative and positive outcomes of the proposed solutions. Once we agree on a solution we must ensure that the solution is reliable and workable I am willing to compromise in order to find the right solution. It is also important to encourage team members to suggest solutions, which gives us a variety of solutions that may benefit us in the future
+
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+
+8 = why should we hire you
+
+=> you should hire me I have high adaptability skills, which means I will fit into your team quickly. I have dedicated nearly 78% of my time in my career path. This has given me the ability to work for long periods of time without getting bored I am a person who is very passionate about discovery and research, which means I will constantly expanding my skills. My long track record of successful work alone in solving problems and planning has given me high strategies in project management that I want to create, which means I will be an excellent team player
+
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+
+9 = What makes you unique?
+
+=> What makes me unique are my innate qualities, such as the ability to think outside the box and never give up and ability to build effective algorithms Throughout my professional journey, which lasted for more than five years, I have worked independently and relied entirely on myself in creating projects, solving any problem, planning, supervising myself, facing challenges, and more in a remote area
+
+
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+
+10 = What are your salary expectations?
+
+=> Since I have never worked for companies before, I am not familiar with salary levels. Therefore, I don't want to set salary expectations. I'm not entirely sure if the proposed salary matches my skills or not , but I am willing to consider any offer made by the employer and negotiate based on the tasks and responsibilities required
+
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+
+11 = Where do you see yourself in five years from now
+
+=> After five years, I see myself having gained a lot of experience by contributing to building complex projects and Overcoming challenges successfully Thanks to my ability to think outside the box and adopt a creative approach to work , I expect that I have systematically established new work methods adopted by the company I also see myself contributed to improving the company’s performance , As for my future plans, I am thinking of completing my studies to obtain Certificate
+
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+
+12 = What Are Your Plans for The Future / What are your cerrer goals?
+
+=> I have goals that I want to achieve. My first goal is to be hired in your company and become a productive and reliable employee who can provide help and advice in a way that ensures the company's goals are met
+
+My second goal is to continue providing advanced and unique content on my blog I aspire for my blog to become a primary reference for other developers when they need unique content 
+
+My third goal is to consider creating my own electronic organization, which aims to help people interested in programming who live in poor areas by providing free resources and free training courses  to learn programming
+
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+
+13 = How do you stay up-to-date on the latest technologies and trends in software development?
+
+=> Create diverse projects: By creating various projects, I will have to learn new techniques and skills in order to create these projects
+
+Participating in Developer Forums allows me to engage with developers and exchange our ideas and solutions, enhancing my knowledge in this field
+
+Follow technology news and subscribe to technology blogs. This will keep me updated on the latest developments in the world of technology
+
+Contributing to Open Source Projects on platforms like GitHub , This is an opportunity to learn through collaboration with other developers
+
+
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+##########################################################################################
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+14 = What programming languages do you work with
+
+=> My primary language is PHP for developing interactive websites combined with JavaScript and jQuery to enhance interactivity and user experience and make websites more flexible. Sometimes I use the Laravel framework because it makes maintaining security and performance easy I'm interested in learning other frameworks as well abd I am now ready to dedicate myself to learning any skill the company requires
+
+###########################################################################################
+
+
+15 = How do you deal with problems / How do you approach problem-solving as a programmer? (code)
+
+=> My technique in troubleshooting programming problems relies on a series of specific steps , which includes:
+
+First , Problem Identification: First and foremost i start by looking for the cause of the problem in the source code
+
+Second , Exclusion Testing : When I encounter difficulty in identifying the problem I remove the lines that are believed to be causing the issue , This action makes error hunting easier
+
+Third ,Verification Testing : After removing the suspected lines, I restart the program to test whether the problem still exists or not. If the issue disappears, it indicates that the problem was related to the deleted lines
+
+Fourth , Understanding the Error: Once the problem is identified, I begin to understand the root cause of this error. This understanding helps me avoid repeating the issue in the future and enhances my expertise
+
+Fifth , Precise Solution: Building on my understanding of the problem, I work on crafting a precise and effective solution. This solution must be carefully designed without impacting the overall workflow of the code.
+
+Finally , Thorough Testing and Review: After resolving the problem, I conduct extensive tests to verify that there are no other issues or negative impacts on the program due to the solution.
+
+In this way, I contribute to maintaining code quality and ensuring that the correction of the problem doesn't adversely affect the program's performance
+
+
+###########################################################################################
+
+16 = how overcome the challenges
+
+=> I have a proven track record of overcoming challenges throughout my career I have faced many challenges for example, at the beginning of my career I immediately jumped into creating complex websites  , in my first project I faced a problem where the code was not working even though all the lines were correct. This inspired me a lot, and it was difficult to identify the causes, but I followed my own methodology and used analytical thinking to search for the causes.I was able to identify the cause of the problem , It turned out to be caused by a conflict between the jQuery libraries used in the project. Thanks to critical thinking, I was able to solve the problem in a short period of time. I believe that this proves that I have a strong innate ability to follow a very strong methodology for searching for causes and easily revealing them. I believe that this style is constantly evolving with every new challenge
+
+###########################################################################################
+
+// Talk about your experiences or experiences
+
+-----------------------------------------------------------
+
+What is the most important project you have worked on?
+
+=> Throughout my professional career, I have created various projects such as e-commerce , Chat website , and other projects The most important project for me is a social networking site that I created at the beginning of my professional career and I aspire to create more complex projects
+
+------------------------------------------------------------
+
+What are the difficulties, what difficulties did you face?
+
+=> I have been facing many difficulties during my professional career, whether financial or social. For example, I spent my entire career with minimal resources and under difficult circumstances And in a society that is not encouraging
+
+------------------------------------------------------------
+
+ What is your experience in laravel
+ 
+ => I am  familiar with Laravel I have more than two years of experience in Laravel but I have created few projects using Laravel because my great interest is in PHP. However, Laravel provides flexibility and strong security for creating websites 
+
+------------------------------------------------------------
+
+  Why haven't you worked in companies before?
+ 
+  => I have not worked in companies before because there are no opportunities available for developers in the country I live in. I hope to find an opportunity in a company to contribute to its success
+
+  -----------------------------------------------------------
+
+  What is your experience with php
+
+  => PHP is my primary language to create the projects I have extensive experience in the PHP language, as I have created unique and distinctive projects using the PHP language and most of the videos on my YouTube channel are about PHP
+
+ ------------------------------------------------------------
+
+  What is your experience working with X
+
+  => To be honest , I am not familiar with x , but I am willing to dedicate my time to learning this skill
+  
+ ------------------------------------------------------------
+
+

@@ -1,0 +1,626 @@
+
+**Job Title: PHP Laravel Developer**
+
+
+
+**Company Overview:**
+
+Qamr International is a dynamic and innovative hr consultancy working with gulf clients our company developing a comprehensive CRM and job portal solution for clients as end user . With around 50% of the project already completed, we are seeking a skilled and experienced PHP Laravel Developer to join our team and contribute to the successful completion of this exciting project.
+
+
+
+**Position Overview:**
+
+As a PHP Laravel Developer at Qamr International, you will play a crucial role in completing the development of our CRM and job portal. You will work closely with our existing development team and contribute to the enhancement and optimization of the existing codebase. The ideal candidate will have a strong background in PHP development, with a focus on the Laravel framework, and a proven track record of delivering high-quality software solutions.
+
+
+
+**Responsibilities:**
+
+1. Collaborate with the existing development team to understand project requirements and goals.
+
+2. Write clean, efficient, and well-documented code using PHP and the Laravel framework.
+
+3. Work on the completion of the CRM and job portal project, addressing both frontend and backend development tasks.
+
+4. Implement and maintain database schemas using technologies such as MySQL.
+
+5. Conduct thorough testing and debugging to ensure the quality and integrity of the codebase.
+
+6. Collaborate with other team members, including UI/UX designers and product managers, to ensure seamless integration of features.
+
+7. Stay updated on industry trends and best practices to continuously improve development processes.
+
+
+
+**Qualifications:**
+
+1. Proven experience as a PHP Laravel Developer, with a minimum of 3 years]of relevant work experience.
+
+2. Strong proficiency in PHP, Laravel, and related technologies.
+
+3. Experience with frontend technologies such as HTML, CSS, JavaScript, and relevant frameworks/libraries.
+
+4. Solid understanding of database design and management, preferably with MySQL.
+
+5. Knowledge of version control systems, such as Git.
+
+6. Excellent problem-solving skills and attention to detail.
+
+7. Ability to work effectively both independently and as part of a collaborative team.
+
+
+
+**Education:**
+
+Bachelor's degree in Computer Science, Software Engineering, or a related field.
+
+
+
+**How to Apply:**
+
+
+
+
+Qamr International is an equal opportunity employer. We encourage applications from candidates of all backgrounds and experiences.
+
+More about this PHP Laravel Developer job
+Qamr International is aggressively hiring for the job profile of PHP Laravel Developer at Mumbai in Mandvi locality. Kindly go through the FAQs below to get all answers related to the given job.
+
+1. How much salary can I expect?
+
+Ans. You can expect a minimum salary of 20,000 INR and can go up to 35,000 INR. The salary offered will depend on your skills, experience and performance in the interview.
+
+2. What is the eligibility criteria to apply for this job?
+
+Ans. The candidate should have completed Diploma degree and people who have 3 to 31 years are eligible to apply for this job. You can apply for more jobs in Mumbai to get hired quickly.
+
+3. Is there any specific skill required for this job?
+
+Ans. The candidate doesn’t need to have English language skills and sound communication skills for this job.
+
+4. Who can apply for this job?
+
+Ans. Both Male and Female candidates can apply for this job.
+
+5. Is it a work from home job?
+
+Ans. No, it’s not a work from home job and can’t be done online. You can explore and apply for other work from home jobs in Mumbai at apna.
+
+6. Are there any charges or deposits required while applying for the role or while joining?
+
+Ans. No work-related deposit needs to be made during your employment with the company.
+
+7. How can I apply for this job?
+
+Ans. Go to the apna app and apply for this job. Click on the apply button and call HR directly to schedule your interview.
+
+8. What is the last date to apply?
+
+Ans. The last date to apply for this job is 03-Dec-2023.
+
+For more details, download apna app and find Full Time jobs in Mumbai. Through apna, you can find jobs in 74 cities across India. Join NOW!
+
+Are you talented, open-minded and motivated?
+
+Then we look forward to hearing from you! We are always on the lookout for new talents to expand our dynamic and international team. If you are motivated rather than discouraged by large customer bases, highly scalable architecture and immense volumes of global traffic, then we encourage you to apply for a job with us.
+
+Do you already have previous job experience and are looking to further your career as a web developer involved in exciting projects? Are you a team player who enjoys developing solutions to complex problems? If you are looking for a great working environment where openness is valued, then don’t pass up this chance and become part of our strong team.
+
+1. Software Engineer – PHP
+The MCT Group is a globally active Fin-Tech enterprise focusing on digital Payment services, e-Wallet, eCommerce and digital payments platform. The owner-operated and financed company was founded by Wells Xu in 2008, and has grown from a two-man team to become a specialist employing over 20 domain experts. Since founding the company, we have delivered over a hundred prestigious projects of all sizes to customers in a range of industries. The MCT Group and its brands MCTPAY, CCPAY, IOGBL, MCT CAPITAL and LogiSmartTech are based at two locations: Singapore and Shenzhen, China.
+
+You do have work experience already and don’t feel like a Junior Developer anymore? But you still want to advance your skills as a software engineer? You are a team player who enjoys the more complex tasks? A great working atmosphere and an open approach are important to you? Then stop us asking you questions and join our strong team.
+
+Your responsibilities:
+Good object-oriented programming skills in PHP
+Good MySQL and database design skills
+Dealing with git
+Ability to make independent decisions based on product requirements
+The ability to adapt to a rapidly changing environment
+Open-minded in dealing with team colleagues
+Very good knowledge of written and spoken English
+
+What you bring to the table:
+Handling of composer & common PHP frameworks
+Professional experience in developing and customizing PHP applications
+LINUX, shell environments or service-oriented architectures
+
+Your Benefits:
+Join our agile, team-oriented company with the opportunity to work on global Fin-tech and web projects, complete tasks under your own initiative, and get involved on the forefront of modern technologies and open source software.
+
+Friendly and open working environment in a well-connected modern office in the center of Singapore
+Company notebook (Thinkpad/Dell) for all employees with your free choice of software
+Numerous team and company events guarantee a friendly atmosphere
+Work on large-scale Fin-Tech Application and Payment platform as well as global web projects
+Our clients include some of the top 200 web pages in the world
+Excellent career prospects in our fast-growing company
+
+Our offer:
+Depending on your personal experience and qualifications, we offer a minimum annual salary of 42.000,00 SGD gross per year for your commitment, dedication and loyalty as part of our motivated team.
+
+If you are interested and recognize yourself in the job description, send your resume to jobs@mct.com.sg.
+
+Description
+Team: DevOps
+
+Reporting to: Filip Pokój, DevOps Team Leader
+
+Location: Warsaw, Cracow, Gdańsk
+
+Salary range for Middle:
+16 000 - 25 000 net PLN B2B
+13 800 - 20 000 PLN gross PLN Contract of employment
+
+Salary range for Senior:
+
+25 500 - 30 000 net PLN B2B
+21 900 - 25 800 PLN gross PLN Contract of employment
+
+About Volt:
+
+Volt is revolutionising how people pay online, globally. Our technology frees consumers from cards by letting them ‘Pay by Bank’. It’s effortless. It’s lightning fast. It’s the future. For businesses everywhere, it’s transformative.
+
+We’re already trusted by leading brands around the world, but the real-time revolution is only just beginning. Having raised $83.5m, we’re accelerating our mission of delivering real-time payments, everywhere. And that’s where you come in.
+
+We need world-class talent to create a world where consumers pay, and businesses get paid, instantly. With headquarters in London and offices in Amsterdam, Berlin, Kraków and Warsaw – and an all-star team already in place – we’re sure you’ll fit right in.
+
+
+About the role:
+
+As an Infrastructure Engineer you will take ownership of our infrastructure set up, implementing best practices according to financial industry standards. Working with Volt will give you the opportunity to design infrastructure and to implement monitoring processes from scratch embedded within an experienced industry expert team. You will support the design of a global and exponentially scalable payments transaction platform while going through the full team building and international growth journey with us.
+
+About our tech choices:
+
+We are designing our solutions with Domain-Driven Design principles in mind. That led us among other things to use the hexagonal architecture as our base pattern for the business layers of our apps. The systems as a whole are built with the best practices of microservices architecture, including CQRS, language-agnostic protocols, containerization, etc.
+Above all, we are keeping the balance between novelty and delivering a business value since that is the ultimate goal of our tech stack.
+
+
+What the role involves:
+
+Making configuration and improving development environments,
+Creating and supporting production and RC environment,
+Setting standards for new and current projects,
+Improving infrastructure in terms of architecture and security,
+Proposing and planning the extension of server architecture,
+Servers updates (database, software, other dependencies: as needed),
+Creation of monitoring & reminders for the typical server metrics monitoring,
+Supporting developers in projects, helping them in analyzing & solving errors (eg. sentry error monitoring),
+Creating CI/CD pipelines using best practices,
+Creating automation wherever possible.
+Requirements
+About you:
+
+We are looking for a proactive person who is always looking for more - more to learn, more improvement, more responsibility. You are a perfect match if you have:
+
+Knowledge of at least one of the Debian based Linux distribution and macOS,
+Knowledge of at least one scripting language like bash, sh, ruby, python,
+Knowledge of Docker and docker-compose software,
+Background of at least one coding language (JAVA, PHP, etc),
+Basic knowledge of Google Workspace (GSuite),
+Strong communication skills,
+Critical thinking,
+Problem-solving personality,
+Good technical English,
+Knowledge of AWS services (EC2, ECS, IAM, ALB, RDS, ROUTE53, OpenSearch, others),
+Knowledge of IAC software (Terraform),
+Knowledge about databases and SQL,
+Knowledge about security in a cloud environment,
+Ability to work in large groups,
+Ability to prioritize tasks/work,
+Knowledge of IP networking, VPNs, DNS, load balancing, and a firewall,
+Experience with monitoring and log aggregating frameworks,
+Ability to choose the best choice for a particular case,
+Awareness of critical concepts in the DevOps area.
+Nice to have:
+experience with ECS / Kubernetes orchestration in a cloud environment.
+What happens next?
+
+Selected candidates will be invited for an initial interview with our People & Culture representative. The video meeting will take about 20-30 minutes,
+Then it’s time for a technical interview! The meeting will be conducted by two Technical Recruiters from DevOps area and will last approximately 1.5 hours,
+Our SVP of Technology would also like to chat with you :) You can expect the meeting to last approximately 45 minutes,
+If successful, you will be given a job offer proposal.
+Benefits
+We champion ‘extreme ownership’ – being not just the owner of your own tasks, but a key member of a team united by, and accountable for, common goals,
+During the week we mostly work remotely but for those who prefer to be in the office we arranged coworking spaces in Warsaw (Business Link Astoria) and Cracow (Loftmill),
+Every week our employees meet and enjoy working together at the Puro Hotels in Cracow (on Thursdays), Warsaw (on Tuesdays) and Gdansk (Mondays). There is always an opportunity to eat lunch together and grab some drinks after hours,
+Every occasion is a good reason for celebration; we organise Christmas parties and company retreats,
+We care about our employees’ health, so you will be provided with Multisport card and medical insurance by Luxmed,
+We offer paid holidays (pssst...we will give you one day off extra for your birthday),
+In addition, once every two months on Friday we close down all comms at Volt - a digital detox. The whole business is officially ordered to take the day off!
+If you want to work in a company with a great, start-up atmosphere, you don’t have to look further :)
+At Volt, diversity and inclusion are integral to our culture.
+
+We believe in hiring for cultural add, embracing difference and fostering a safe space where everyone can bring their authentic selves. Our mission is to transform the payments industry and this is only possible through the power of our diverse and talented team.
+
+Join us in making real-time payments accessible for all.
+
+Job Description
+Background Information - Job-specific
+
+The UN Development Coordination Office (DCO) is seeking talented and creative Javascript developers to work remotely on the development and maintenance of online applications to improve information management for the coordination of international development assistance.
+
+UNDCO is currently improving how data around development assistance is collected, processed and made available to practitioners, decision-makers and the public. This is centered around its main data management platform, the UN INFO suite of applications, which includes Cooperation Framework, IMS and Common Premises. Additionally, there are public facing sites such as the UNSDG Data portal which provide interactive visualizations and analytical products.
+
+The developer will join a DCO-wide team under the supervision of the DCO Information Platforms Officer and work closely with relevant project managers, data analysts as well as substantive expertise from the various branches in DCO and specifically the Policy and Programming Branch (PPB). This role includes an expectation to provide support and backup to other projects as and when necessary.
+
+The position is home-based, and ideally should be based within a time zone that reasonably overlaps with New York as it requires close and continuous collaboration with the team. Travel to New York may be required on an as-need basis within the period of the contract.
+
+Functional competencies
+
+Purpose and Scope of Assignment
+
+A developer will report to the DCO Integrated RCS Platforms Officer in New York and work collaboratively with colleagues in headquarters, the UN Resident Coordinator Offices and the core development team.
+
+Within a team of front-end and back-end developers and a lead developer, you’ll be working on web applications using Node.js, Postgres, React JS, Docker and Azure/AWS tools and environments. The project follows the Git workflow model and uses Gitlab for code management and releases. Developers are required to write comprehensive tests for code. As a Javascript developer you will be required to:
+
+Develop and maintain online web/database applications to provide DCO with the suite of data web applications, particularly on response planning & monitoring, project planning, implementation tracking and financial tracking.
+Bring design and UI expertise to enhance the user experience on the front end of the web apps and propose creative solutions to meet complex user requirements and functional challenges.
+Design, build and maintain stable, high quality back end systems including public and private APIs, optimised code and queries, software library maintenance, server management and other relevant Dev Ops tasks. This will involve planning and designing system architecture, designing database models, implementing business logic and testing frameworks and deployment solutions.
+Undertake iterative design and functional improvements for applications once they are launched, working in an Agile manner to meet rapidly evolving user needs.
+Work closely with the current developer team to successfully deliver solutions on time and to specification. This includes planning schedules, quality assurance, brainstorming ideas and solutions, adhering to coding standards, meeting security requirements, following agreed procedures for deployments and other team related activities.
+Communicate and collaborate with business focal points and project managers on understanding problems, creating solutions and providing accurate time estimates.
+Provide technical documentation for developers and application administrators to support and maintain the system.
+Provide technical support as needed to application administrators and data managers for content creation, user/permission management, data cleansing and ad-hoc requests for customised reports.
+Work in micro-services environment, with potential mesh architecture for high security web applications.
+Have access to a computer with MAC OS X or Linux based operating system for running the necessary development tools and environments.
+Work closely with the infrastructure team for code deployments, troubleshooting and other related issues and ensure the technical standards set forth in the UN are met.
+As part of this team, completion of other tasks as assigned across DCO projects beyond DCO platforms as needed.
+Monitoring and Progress Controls
+
+The development team follows an agile approach, Tasks assigned will be assigned and assessed during daily stand up calls and sprint review/planning sessions.
+* FEMALE CANDIDATES ARE STRONGLY ENCOURAGED TO APPLY
+
+Education
+
+Advanced university degree (Master’s degree or military diploma equivalent) preferably in information technology, information systems, information management, web development, database, engineering or related field .
+A first-level university degree in combination with 2 years of qualifying experience may be accepted in lieu of the advanced university degree.
+Work Experience
+
+Required Experience
+
+A minimum of five (5) years of working on software development and implementation is required.
+Experience in online database application development and implementation working experience as follows:
+A minimum of two (2) years of developing with object-oriented JavaScript and JavaScript-based libraries on dynamic, data driven websites including D3.js
+
+A minimum of two (2) years of developing with Node.js
+
+A minimum of one (1) year working with REACT.js
+
+A minimum of three (3) years developing with SQL-based open-source databases such as MySQL or PostgreSQL, Code versioning, in particular Git workflow
+
+A minimum of one (1) year working with working with Docker
+
+A minimum of two (2) years developing on a Linux environment
+
+Desired Experience
+
+Experience with Azure/AWS and other cloud services
+Experience in development of web API services and their utilization
+Experience in managing dependencies, deployment and development workflow
+Demonstrated experience in web development projects in a consulting or professional services environment, working with cross-functional teams
+Experience in working on projects using an agile framework
+Experience in working both independently and in collaboration with remote, geographically diverse teams - comfortable and competent with working via e-mail, chat, audio/video conference etc.
+Experience working on both front-end and back-end
+Experience of developing web applications in other programming languages
+Some knowledge of Drupal-based websites, particularly regarding integration of database applications with Drupal front ends, and website development in PHP
+Some experience working with the public or not-for-profit sector
+Language
+
+Fluency in English is required.
+Knowledge of any of the other UN official languages is desirable.
+Competencies
+Develops and implements sustainable business strategies, thinks long term and externally in order to positively shape the organization. Anticipates and perceives the impact and implications of future decisions and activities on other parts of the organization. Treats all individuals with respect; responds sensitively to differences and encourages others to do the same. Upholds organizational and ethical norms. Maintains high standards of trustworthiness. Role model for diversity and inclusion. Acts as a positive role model contributing to the team spirit. Collaborates and supports the development of others. For people managers only: Acts as positive leadership role model, motivates, directs and inspires others to succeed, utilizing appropriate leadership styles. Demonstrates understanding of the impact of own role on all partners and always puts the end beneficiary first. Builds and maintains strong external relationships and is a competent partner for others (if relevant to the role). Efficiently establishes an appropriate course of action for self and/or others to accomplish a goal. Actions lead to total task accomplishment through concern for quality in all areas. Sees opportunities and takes the initiative to act on them. Understands that responsible use of resources maximizes our impact on our beneficiaries. Open to change and flexible in a fast paced environment. Effectively adapts own approach to suit changing circumstances or requirements. Reflects on experiences and modifies own behavior. Performance is consistent, even under pressure. Always pursues continuous improvements. Evaluates data and courses of action to reach logical, pragmatic decisions. Takes an unbiased, rational approach with calculated risks. Applies innovation and creativity to problem-solving. Expresses ideas or facts in a clear, concise and open manner. Communication indicates a consideration for the feelings and needs of others. Actively listens and proactively shares knowledge. Handles conflict effectively, by overcoming differences of opinion and finding common ground.
+Contract type, level and duration
+
+Contract type: Individual Contractor Agreement (IICA)
+Contract level: International Individual Contractor Agreement (I-ICA 2)
+Contract duration:12 months
+
+For more details about the ICA contractual modality, please follow this link:
+https://www.unops.org/english/Opportunities/job-opportunities/what-we-offer/Pages/Individual-Contractor-Agreements.aspx
+This is a partner supervised position.
+
+About the Organization
+Background Information - UNOPS
+
+UNOPS is an operational arm of the United Nations, supporting the successful implementation of its partners’ peacebuilding, humanitarian and development projects around the world. Our mission is to help people build better lives and countries achieve sustainable development.
+
+UNOPS areas of expertise cover infrastructure, procurement, project management, financial management and human resources.
+
+Working with us
+
+UNOPS offers short- and long-term work opportunities in diverse and challenging environments across the globe. We are looking for creative, results-focused professionals with skills in a range of disciplines.
+
+Diversity
+
+With over 4,000 UNOPS personnel and approximately 7,000 personnel recruited on behalf of UNOPS partners spread across 80 countries, our workforce represents a wide range of nationalities and cultures. We promote a balanced, diverse workforce — a strength that helps us better understand and address our partners’ needs, and continually strive to improve our gender balance through initiatives and policies that encourage recruitment of qualified female candidates.
+
+Work life harmonization
+
+UNOPS values its people and recognizes the importance of balancing professional and personal demands.
+
+Background Information - Sustainable Development Cluster
+
+Based in New York, the Sustainable Development Cluster (SDC) supports diverse partners with their peacebuilding, humanitarian and development operations.
+
+The SDC’s services include grants management, development and special initiatives support, and technology support to the UN and UN agencies.
+
+The SDC is part of the New York Service Cluster that supports the United Nations Secretariat, as well as a broadening community of other New York-based United Nations organizations, bilateral and multilateral partners in the delivery of UNOPS mandate in project management, infrastructure management, and procurement management.
+
+
+Looking for 1-2 yrs of exp in PHP. 1.Understanding client requirements & functional specifications. 2.Developing and maintaining dynamic websites and web applications. 3.Ensuring foolproof performance of the deliverable. 4.Coordinating with co-developers and other related departments. 5.Sending regular updates about project status.
+
+Requirments :
+Must be proficient in PHP, MySQL, CSS, HTML, Javascript, AJAX, XML Experience in Codeigniter is an added advantage. Should have excellent written communication skills (English) Must have capacity to work independently and also as a part of team Must have dedication and commitment towards work.
+No of Vacancy : 4
+Desired Skills :
+PHP Codeigniter or Laravel
+Walk-in Duration: Monday to Saturday - 10:00 AM to 05:00 PM
+How to Apply:
+Apply through Online Application Form.
+Email ur resume to: hr@jhweb.in
+
+Description
+Company Description
+Are You Looking For a Fun Place to Work? Join The Game!
+
+Joining our game means being part of a top innovator in the gaming field. Gameloft® is a leader in the development and publishing of games, creating them for all digital platforms with an astonishing audience of 80 million monthly users. Our catalog includes every genre and our games are as varied as we are. We operate our own established franchises such as Asphalt®, Order & Chaos, Modern Combat and Dungeon Hunter and also partner with major rights holders including Universal, Illumination Entertainment, Disney®, Marvel®, Hasbro®, Fox Digital Entertainment, Mattel® and Ferrari®.
+
+We distribute our games in over 100 countries and employ 4,300 people worldwide. We embrace challenges and are always ready for the next big thing. Not convinced yet?
+
+We have partnerships with high schools and universities all over the world and we support their activity by sharing knowledge and mentoring future professionals. We know the importance of knowledge sharing in order to build healthy and smart future generations. We grow talent and we push to be an example for youngsters by regularly hosting seminars for students, workshops for highschoolers and teachers. So, what do you say? Are you ready to be not just another face behind a computer screen, but a Gamelofter working in a supportive environment, who gets involved and gives back to the community?
+
+Job Description
+The integration specialist plays a crucial role in seamlessly integrating the custom-built content distribution solutions with telco carriers’ billing systems. They are responsible for ensuring smooth data flow, system compatibility, and efficient communication between different software components. Their expertise in PHP, MySQL, and JavaScript, as well as their understanding of custom development practices, enables successful integration and collaboration between various systems.
+
+ 
+
+Responsibilities:
+
+System Integration: Collaborate with software architects and developers to design and implement custom integrations between the content distribution solutions and telco carriers’ billing systems. Ensure compatibility, data accuracy, and adherence to industry standards using custom development practices.
+API Integration: Develop, configure, and manage APIs for data exchange between different systems, leveraging PHP, MySQL, and JavaScript. Ensure secure and optimized API communication using REST or SOAP protocols based on the custom architecture.
+Troubleshooting and Issue Resolution: Identify and resolve integration issues, including data inconsistencies, communication failures, and system errors using PHP, MySQL, and JavaScript. Conduct thorough debugging, testing, and analysis to identify the root cause and implement appropriate fixes within the custom-built platform.
+Testing and Validation: Conduct integration testing using custom testing methodologies to ensure seamless interoperability between systems. Verify data integrity, transaction flows, and billing accuracy through comprehensive testing approaches specific to the custom platform.
+Documentation: Create and maintain detailed documentation of integration processes, configurations, and technical specifications within the custom-built platform. This includes API documentation, integration workflows, and troubleshooting guides tailored to the custom architecture.
+Collaboration: Collaborate with cross-functional teams, such as software architects, developers, and database administrators, to align integration strategies, resolve dependencies, and ensure seamless end-to-end functionality within the custom-built platform.
+Industry Research: Stay updated on industry trends, emerging technologies, and best practices related to integration and billing systems. Continuously assess new tools, techniques, and standards that could enhance integration processes within the custom environment.
+Qualifications
+Strong technical background with expertise in PHP, MySQL, and JavaScript for integration tasks within custom platforms.
+In-depth knowledge of API protocols and technologies (e.g., REST, SOAP) and data formats (JSON, XML) for seamless data exchange within the custom architecture.
+Experience working with custom-built platforms and an understanding of custom development practices.
+Familiarity with database design, optimization, and querying using MySQL within the custom environment.
+Proficiency in front-end JavaScript for building dynamic interfaces and integrating with backend systems within the custom-built platform.
+Excellent problem-solving and analytical skills, with the ability to diagnose and resolve complex integration issues using PHP, MySQL, and JavaScript within the custom environment.
+Strong communication and collaboration skills to work effectively with cross-functional teams and stakeholders.
+Attention to detail and the ability to prioritize tasks in a dynamic environment.
+Additional Information
+Why Join the World of Gameloft?
+
+Because you want to be part of an exceptional experience within a company that is constantly growing!
+Because you want to work with talented people who are industry pioneers!
+Because you want to be part of an international environment with daily contact with other countries & cultures!
+Because you want to work in an inclusive equal opportunity workplace!
+Or, just because you’re looking for a great place to work!
+ 
+Benefits:
+
+Permanent contract, full-time job with excellent Social Benefits
+25 vacation days per year
+Private medical health insurance
+Flexible compensation with Ticket Restaurant Card
+Free language courses
+Birthday day off 
+3 days per year to switch from regular full-day hours to intense Friday-like schedules
+Flexible work from home hybrid model 
+Merit based salary progression system and a competitive initial salary package.
+Career-development opportunities.
+Excellent local working conditions (quality of offices, geographical location of office in the centre of Barcelona).
+... and Thursday afterwork beers!
+ 
+
+We can’t wait to find our next great talent!
+
+We're looking for gamers from all walks of life to join our team! We are an equal opportunity employer committed to creating a culture of inclusivity where everyone feels welcome, respected, valued, and empowered to do their best work. To do so, we joined hands with organizations such as FemDevs and COGAM, who are helping us to create a safe workplace where gamers can come together (no matter what their background culture or identity is) and create amazing experiences for our players.
+
+Whether you're a casual gamer or a hardcore e-sports competitor, and regardless of the platform you prefer (we’re a cross-platform dev Studio now!) we want you to feel like you belong to our team.
+
+Please note that only selected candidates will be contacted and your CV will be saved in our files for a period of 6 months.
+
+Want to know more? Please visit our Website: www.gameloft.com
+
+If the offer interests you, Join the Game!
+
+We are looking for talented PHP developers to join us. We are a small and close-knit team so this position will provide a suitable candidate with the opportunity to have a high level of responsibility, make a big impact, and take the lead on technical elements of our work. To be successful, you will have to be creative. We are always trying to do more, so a creative approach to development is necessary
+
+
+SKILLS & REQUIREMENTS
+
+Experience with object-oriented programming and PHP MVC frameworks
+Experience and understanding of relational databases (MySQL)
+Familiar with HTML, CSS, JavaScript
+Good written and spoken English.
+
+
+BENEFITS
+
+Competitive salary
+
+Meal tickets
+
+Private health plan
+
+International environment
+
+Work with multiple products and technologies
+
+Be part of a productive and nonformal atmosphere at our nice office in Iasi, near Palas
+
+
+
+COMPANY DESCRIPTION
+
+DinnerBooking is a Danish company that has been providing software to restaurants since 2005 and has products in Denmark, Norway, Estonia, UK, Ireland, Sweden, UAE, Belgium, France, Finland. With our new portal we are aiming also at the end-user segment, which opens up for a new range of products we plan to bring to life in an atmosphere of innovation, fun and responsibility.
+
+Splendor is an award-winning creative agency in Red Bank, NJ. We are currently accepting applications from motivated and detail-oriented Developers. While this is not an immediate need, we are always looking for talented individuals to join our growing team.
+
+This is a great hands-on learning environment where you’ll assist with delivering innovative and engaging digital user experiences for a wide range of clients.
+
+YOU ARE:
+Passionate about web UX, development, and problem-solving
+Relentless and strategic in your work ethic
+A team player
+Able to take direction
+Able to work independently
+Cool, positive, optimistic
+RESPONSIBILITIES
+Regular communication with account managers and designers, as well as daily management of web development tasks 
+Ongoing proactivity looking for and strategizing ways to improve web user experience 
+Overseeing and leading the Web development process from start to finish, the web project pipeline, and production sprint to go-live 
+Build proofs-of-concept and functional prototypes 
+Translate mockups into front-end code 
+Maintain existing sites/applications including bug fixes, content updates, SEO optimization, and feature enhancements 
+Troubleshoot front-end coding and browser compatibility issues
+Troubleshoot back-end and 3rd party integration issues 
+Ensure cross-browser compatibility through thorough Q/A testing
+Remain current on all topics related to web and user experience design and development 
+Manage multiple projects, prioritize own workload, and work independently when required  
+QUALIFICATIONS
+Experience with WordPress Web Development
+Experience building responsive sites and flexible, reusable modules 
+Strong competency with UX and web design tools including Figma, Adobe XD, Photoshop, etc.
+Experience with 3rd party integrations via XML and JSON 
+Quick problem solver and debugging ability 
+Experience with custom WordPress themes and plugins a plus
+Writing both hand-coded and framework-assisted JQuery, JavaScript, CSS/CSS3, PHP, and HTML/HTML5  a plus
+Experience building apps and prototypes a plus
+IMPORTANT NOTES:
+This will be an in-person position. We are looking for candidates who can commute to our office in Red Bank, NJ.
+
+WebFX is a proud Google Premier Partner with 6 offices in the US as well as an office in Guatemala and another one in South Africa! We are continuing to expand worldwide and would love for you to be a part of that! In fact, we doubled in size in the past 5 years and are projecting to once again double in size and be a global, publicly traded tech company by the year 2030 - operating in every continent, servicing clients globally. We currently have talented team members across the globe (representing 18+ Countries) who work remotely full-time and have done so for 10+ years.
+
+No matter where you’re located, we’d love to have you join our mission of providing world-class digital marketing solutions to mid-size businesses on a global scale. We thrive on driving business growth for our clients and are looking for people who take pride in their marketing efforts and enjoy having fun at the same time. Sound like you? Great! Keep reading:
+
+Why Choose WebFX
+
+For 8 years in a row, WebFX has been named the #1 Best Place to Work in Pennsylvania, which is our headquarters’ home state! As a company, we pride ourselves on being able to offer the same culture and benefits to our global team members. In addition to very competitive base pay, we offer company profit-sharing, performance bonuses, and health insurance (including dental, vision, remote doctor, etc.). To aid in your success, we provide world-class digital marketing training (Organic SEO, Local SEO, PPC, Google Analytics + Studio, etc.), long-term career track opportunities, and ongoing learning bonuses (yes, you can get paid to learn!), along with numerous other benefits! 
+
+Read below to learn about some of the benefits you can expect when working with WebFX:
+- No matter where you are located or your position, WebFX offers long-term stability to all of our FXFamily members. In fact, many of our global/remote team members have been with WebFX for 10+ years, and we’re hoping you can be too! 🌏
+- We put our people first; it’s as simple as that. You’re never on your own - when you run into inevitable challenges, we’re there to support you along the way! 
+- Long-lasting relationships with both clients and team members due to consistently low turnover rates, which are simply unheard of in our industry because, again, we put our people first.
+- When you join WebFX, you don’t just join a company; you join a community! We value all of our team members the same, regardless of their position or where they call home. We truly look forward to learning about you and your background, and we will be there to celebrate the milestones in your life together, no matter how big or small! 👏
+- Access to virtual professional development opportunities with company experts and virtual team-building events like monthly meetups and hangouts.
+- Invitation to our annual FXFest – an all-expenses paid trip for our international team members (with a 1-year tenure) to our company headquarters. The week-long event is filled with activities, learning, and motivation to help unite our U.S. and global staff! 🛫
+- Fully equipped in-home office setup including computer, dual large monitors, headset, seriously fast internet, generator, and more! 🖥️ 
+- Multiple schedule options from which to choose. 📅
+- Be part of a rapidly growing company that, at the same time, only partners with clients who share our values. 🌱📈
+- Unrestricted access to our dozens of proprietary software/platforms our internal R&D team has developed for our team’s exclusive use, in addition to access to the many 3rd party tools and software we utilize internally in order to WOW our clients. You can learn more about just some of our proprietary tools here.
+- Merit-based promotional structure.
+- Annual merit-based compensation increases! 💰
+- We have a very strong commitment to giving back globally - in fact, it’s one of our values here at WebFX. As a member of our FXFamily, you get to be a large part of that simply by achieving your goals - since 2014, we’ve committed to donating globally through our FXBuilds program. You can learn more about that here!
+
+What You'll Get
+
+World-Class Training and Ongoing Career Development
+- No matter your level of experience, our “Bootcamp” web marketing training program is provided for all new WebFX “family members” to learn, grow and develop in and out of the office with the hard skills necessary to be successful in their position. 
+- From training with our Award-Winning Sr. Developers, Designers, and Project Managers to access to countless industry-leading online training resources/courses/tutorials to getting experience with nearly 1,500+ different clients with various platforms, digital services, and in every industry you can think of (and then some), our training program is simply unrivaled!
+- Training doesn’t stop after your initial training period, we offer career development training and monthly Lunch-and-Learns with our state-of-the-art training amenities to facilitate departmental training, industry-related updates, and more!
+- FXLearns program – where you get incentives for taking advantage of our countless industry training resources!
+- After 1,500+ clients, we’ve been able to truly master our processes and procedures – you will be trained on all of those - no need to develop how to do things (unless you want to help us continually improve that process) – because we refuse to ever stagnate, we are always pushing to make those processes 1% better too! 
+
+Opportunities for Growth
+WebFX grew 250%+ over the past 3 years both locally and globally, and merit-based promotional opportunities are abundant if you're meeting or exceeding position performance metrics. We believe in growing and promoting our internal team first and foremost. In fact, 95% of our promotions are internal! All team members have a very clearly defined progression path, so you know exactly what is expected of you so you can put your career in your own hands. And what’s more, you’re not expected to know it all - we believe in continually striving to be an expert in your subject matter of expertise – so while we will purposely challenge you to grow in SEO/PPC/Google Analytics, we are a full-service agency that has experts in other departments that handle everything else - from link building, social media, web design, and web development. This is done so you can truly master your trade.
+
+We currently have over 40 team members located in the Philippines, and our goal is to double that number within the next 2 years!
+
+Who We're Looking For
+Desired Education
+A Bachelor’s degree in computer science or related discipline is preferred.
+General Knowledge
+Strong knowledge of database design and troubleshooting
+Strong understanding of software development life-cycle and best practices
+Experience
+Strong English (written and verbal). Your resume must be in English to be considered.
+PHP experience
+Solid project-level experience with PHP / WordPress CMS utilizing Advanced Custom Fields (We do not work with page builders)
+Solid project-level experience with at least one other open-source CMS platform such as Magento, Shopify, Joomla, Drupal, etc.
+Experience with web-based programming languages
+Experience with cloud platforms (ie Google Cloud, AWS, Microsoft Azure)
+Proficiency in a LAMP environment
+OOP and procedural programming methodologies
+Standard Compliant HTML, CSS, and JavaScript
+Git Version control (or other version control software)
+Package management and Task Runners (e.g. NPM, Yarn, Gulp, Grunt)
+Browser testing abilities using built-in developer tools
+E-commerce solutions and is well-versed in e-commerce methodologies and best practices
+Previous development firm/agency environment
+Qualities
+Passion for web development
+Demonstrates ability to get things done
+Commitment to delivering high-quality and defect-free projects to clients
+Comfortable with both object-oriented and procedural programming methodologies
+Capable of individual “deep work”
+Ability to collaborate with a team to complete projects rapidly
+Strong time management skills, can meet deadlines consistently
+Takes direction well, but also able to make decisions and take initiative
+Strong communication skills
+Ability to work independently
+Stays up-to-date on the latest web technologies
+Professional, dependable, solid work ethic, detail-oriented, dedicated to quality, self-motivated
+Enjoys solving problems
+Customer-centric mentality
+What You'll Do
+Coordinate and participate in the programming, implementation, testing, and support of web-based projects using the LAMP solution stack of software
+Program, develop, and produce data-driven web applications, websites, and mobile apps using machine learning and the latest technology solutions and software
+Consult with clients and the account team to ensure the use of effective Internet-based technologies for enterprise business applications
+Debug and problem-solve across a wide variety of open-source and mobile platforms
+
+WebFX developers typically work on 60+ projects per year, so there is a high level of variety in work and two days are never the same! Our web-based projects use a variety of frameworks selected on a per-project basis.
+Percentage Breakdown
+30-50% website maintenance and debugging
+40-60% building new functionality
+10% consulting with other team members
+
+
+Compensation
+Negotiable, based on experience
+Annual merit-based increases
+
+Working Hours
+
+Asia (Philippines / Indonesia)
+This position requires overlapping hours from 3:30 AM EST - 12:00 PM EST (New York Time Zone) Monday - Friday.
+
+Africa / Europe (Ghana, UK, Ireland, Kenya, etc)
+This position requires overlapping hours from 6:00 AM EST - 2:30 PM EST, Monday - Friday. The 40 hours of work doesn’t include any lunch or breaks.  
+
+*** This excludes South Africa. South Africa has additional hours options.
+
+North America & South America
+This position requires overlapping hours from 8:00 AM EST - 4:30 PM EST, Monday - Friday. The 40 hours of work doesn’t include any lunch or breaks.  
+
+Check out our culture on social media:
+Instagram
+Twitter
+Facebook
+
+Please submit a resume or CV (in English) to be considered for this opportunity.
+
+*You don't need to apply more than once, even if you're interested in multiple positions - you can simply let us know! We consider all open roles when reviewing resumes and applications! 
+
+WebFX is an Equal Opportunity Employer, committed to providing and fostering an inclusive environment where all people, including women, minorities, LGBTQ+, and other underrepresented groups, are supported, respected, and encouraged to excel within STEM careers. Our goal as an organization is to empower our team to achieve their personal best, bring people together, and provide equal opportunity to do so regardless of race, age, gender, sexual orientation, religion, physical ability or disability, or political affiliation. You can learn more on our website here!
+
+While you can use if conditionals to check for potential errors and handle them accordingly, using exceptions is generally considered a better practice for several reasons:
+
+Clarity and Readability: Using exceptions makes the code more explicit about the potential for errors and how they are handled. The try-catch block clearly separates the normal program logic from the error handling logic, making the code easier to read and understand.
+
+Modularity and Reusability: Exceptions promote modularity by encapsulating error handling logic within distinct blocks. This makes it easier to reuse code in different parts of a program and across different projects.
+
+Encapsulation and Abstraction: Exceptions allow developers to abstract away the details of error handling, focusing on the core functionality of the code. This can make the code more maintainable and less prone to errors.
+
+Propagation and Unforeseen Errors: Exceptions can propagate up the call stack, allowing error handling to be centrally managed and ensuring that unforeseen errors are not ignored.
+
+Graceful Recovery and User Experience: Exceptions provide a mechanism for graceful recovery from errors, preventing program crashes and allowing developers to provide meaningful feedback to users.
+
+In summary, while if conditionals can be used for basic error checking, exceptions offer a more structured, robust, and maintainable approach to error handling in programming. The benefits of using exceptions outweigh the occasional convenience of if conditionals, especially in complex and large-scale projects.

@@ -1,0 +1,80 @@
+
+// Be prepared to talk about your skills and experience
+
+
+1 - tell me about yourself
+
+------------------------------------------------------------
+
+2 - What are your biggest weaknesses  /  What are your weaknesses
+
+=> My weakness is that I often have an excessive curiosity about how things work, to the point where I compel myself to research and learn more. For example, I have a curiosity about how a specific function works. However, when I find myself stumbling and unable to comprehend this function, it can lead to feelings of distress, and it forces my mind to keep thinking about finding an explanation. I find myself uncomfortable until I can understand it. So, I try to understand it repeatedly, and I often end up wasting precious time in attempting to grasp it again. However, at the present time, I am working on developing strategies to address this weakness. For instance, I have started to postpone understanding complex matters to moments when I am calmer and more stable. This helps me understand them better and faster. In fact, I can now harness this strong curiosity to enhance my skills and continuously expand my knowledge. Additionally, this passion for understanding things means that I am always committed to self-improvement and growth in both my personal and professional life
+------------------------------------------------------------
+
+3 - What are your strengths
+=> My strongest strength is that I have the skill of solving problems and I face challenges fiercely and I did not let them take over. For example, in my previous experience, I learned programming and created projects with unfavorable resources, never a bad environment, a bad laptop, and very difficult conditions. I was able to face these challenges, as I provided ideas and solutions to the problems that I faced. I faced and adapted to difficult circumstances. Despite this, I achieved strong achievements in my profession, which means I will take on or bear difficult responsibilities in the company instead of leaving them for others to deal with.
+
+loyalty now this means you are someone who is a great role model for the company and wants to work there long term 
+
+fitting into a team quickly now this means you will quickly establish how you can contribute to the team and adapt to their ways of working 
+
+having passion for your work now this means you are someone who is passionate about what you do you take pride in your work and you genuinely want to do the best job possible for your employer 
+
+ being a problem solver now good problem solvers take responsibility for difficult challenges instead of leaving them for others to deal with
+
+ being cost conscious this is a great one this means you never waste company supplies or resources but instead you will seek ways to help the company streamline processes and systems to save money
+
+being a supportive collaborator now supportive collaborators are great team players who help their co-workers when asked and they also are willing to train new team members whenever they join the company
+
+leadership capabilities you do not need to be in a management or leadership position to demonstrate leadership capabilities at work now some of the best employees will take the lead during difficult situations and do all they can to resolve challenging problems instead of passing them on to their manager to deal with
+
+my greatest strengths are my problem-solving capabilities results driven focus and responsiveness some people leave problems for others to deal with but I will do all I can to overcome the problem learn from it and share my findings with my co-workers my results driven attitude to work means I will always do my best to give you a positive return on my salary finally my responsiveness means I will act quickly take the initiative and get more work done than the average employee
+
+my strengths include the fact I am a fast learner I fit quickly into any team I always support my co-workers and I am positive about feedback and personal development so feedback allows me to continually develop meaning I will always be able to add value to my team finally perhaps my greatest strength is the fact I am commercially aware this means I understand I must do a great job for my employer provide excellent customer service and seek ways to help you grow
+
+------------------------------------------------------------
+
+4 - Why are you interested in working for our company or with us / why do you want to work for our company as a web developer
+------------------------------------------------------------
+
+5 - What programming languages do you work with
+
+=> Firstly, I primarily use PHP to develop interactive websites. PHP is considered one of the latest programming languages used in web development, offering powerful tools for building dynamic and integrated applications.
+To make websites more flexible, user-friendly, and easier to maintain, I also utilize JavaScript and jQuery. These technologies help add distinctive interactivity and enhance the user experience on the site
+
+Furthermore, I occasionally rely on the Laravel framework when the goal is to create a more secure and scalable website. Laravel provides a robust structure for developing large-scale applications and makes it easy to maintain security and performance.
+I am committed to delivering the highest quality in web development and work diligently to achieve the company's objectives. Additionally, I am dedicated to continuous learning and acquiring more skills if the company requires it
+
+------------------------------------------------------------------------------
+7 - How do you deal with problems / How do you approach problem-solving as a programmer?
+------------------------------------------------------------------------------
+9 - Can you describe a project you have worked on and your role in it?
+------------------------------------------------------------------------------
+10 - Can you explain the development process you typically follow?
+------------------------------------------------------------------------------
+11 - How do you handle working with a team or collaborating with other developers?
+------------------------------------------------------------------------------
+12 - how do you plan a web development project
+------------------------------------------------------------------------------
+14 - what will you bring to our company as a web developer
+------------------------------------------------------------------------------
+15 - Tell me about your favorite projects
+------------------------------------------------------------------------------
+16 - how would you explain something technical to a non-technical person
+------------------------------------------------------------------------------
+18 - What is PHP?
+=>PHP, short for Hypertext Preprocessor, is a server-side scripting language essential in web development. It enables the creation of dynamic websites by processing code on the web server, generating HTML to be sent to the client's browser. PHP is known for its versatility, ease of integration with databases like MySQL, and support for various web servers.
+
+Its ability to seamlessly combine with HTML makes it ideal for creating interactive web pages, content management systems, and e-commerce platforms. PHP also boasts a large and active developer community, resulting in a vast library of resources and frameworks like Laravel and WordPress, which rely on PHP. In summary, PHP is a fundamental tool for building feature-rich web applications
+
+-----------------------------------------------------------------------------
+23 - How do you stay up-to-date on the latest technologies and trends in software development?
+------------------------------------------------------------------------------
+25 - How do you deal with stress and pressure?
+------------------------------------------------------------------------------
+26 - How do you handle conflict with others?
+
+
+
+
+
